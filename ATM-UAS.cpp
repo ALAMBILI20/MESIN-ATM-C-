@@ -4,6 +4,7 @@ using namespace std;
 void menuIndonesia();
 void menuEnglish();
 
+// MESIN ATM
 int main() {
     int pilihan;
 
